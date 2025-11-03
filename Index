@@ -1,1 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Travel Journal</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="header">
+    <h1>Dom's Travel journal of adventure</h1>
+    <p>Come see what on the horoizon </p>
+  </div>
 
+  <div class="section" id="destinations">
+    <h2>Destinations</h2>
+    <div class="destination">
+      <img src=>
+      <div>
+        <h3>/h3>
+        <p></p>
+      </div>
+    </div>
+
+    <div class="destination">
+      <img src=>
+      <div>
+        <h3></h3>
+        <p></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="section" id="itineraries">
+    <h2>Itineraries</h2>
+    <p></p>
+    <ul>
+      <li><strong>Day 1:</strong> </li>
+      <li><strong>Day 2:</strong></li>
+      <li><strong>Day 3:</strong> </li>
+    </ul>
+  </div>
+
+  <div class="section" id="reviews">
+    <h2>Reviews & Tips</h2>
+    <p></p>
+    
+  </div>
+
+  <div class="footer">
+    <p> Dom's travel journal of adventure</p>
+  </div>
+</body>
+</html>
